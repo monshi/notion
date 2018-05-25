@@ -1,0 +1,9 @@
+var ALIASES = {};
+ALIASES['launchbin'] = {};
+ALIASES['launchscript'] = {};
+ALIASES['node'] = {};
+ALIASES['node_archive'] = {};
+ALIASES['notion'] = {};
+ALIASES['notion_core'] = {};
+ALIASES['notion_fail'] = {};
+ALIASES['progress_read'] = {};
